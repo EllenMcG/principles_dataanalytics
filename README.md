@@ -1,7 +1,7 @@
 # principles_dataanalytics
 
 
-This repositry is part of the module Principles of Data Analytics as part of the Higher Diploma in Computing (Data Analysis) at ATU Galway. This project involved investigation of the famous Palmer Penguins [dataset](https://allisonhorst.github.io/palmerpenguins/) and is one of the datasets readily available within the [Seaborn](https://github.com/mwaskom/seaborn-data/blob/master/penguins.csv) package. 
+This repositry is part of the module Principles of Data Analytics as part of the Higher Diploma in Computing (Data Analysis) at ATU Galway. This project involved investigation of the famous Palmer Penguins [dataset](https://allisonhorst.github.io/palmerpenguins/) and is one of the datasets readily available within the [Seaborn](https://github.com/mwaskom/seaborn-data/blob/master/penguins.csv) package. The version of the dataset used in this project is available [here](https://raw.githubusercontent.com/mwaskom/seaborn-data/master/penguins.csv).
 
 This Palmer Penguins dataset is composed of size measurements from penguins and was collected at the Palmer Station, Antarctica within the Palmer Long-Term Ecological Research (LTER) Study Area. Three species of penguins (Adélie, Chinstrap and Gentoo penguin) were sampled (n=344) within three study sites (Dream Island, Torgersen Island, and Biscoe Point) near Palmer Station (refer to [Gorman et al., 2014](https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0090081&type=printable) for further information). 
 
