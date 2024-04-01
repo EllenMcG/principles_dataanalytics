@@ -13,4 +13,4 @@ This dataset is a combination of three datasets of each penguin species with mea
 This repositry contains several files used for this python based project;
 - _penguins.csv_ - The CSV file used for this project available [here](https://raw.githubusercontent.com/mwaskom/seaborn-data/master/penguins.csv).
 - _READMEmd_ - Markdown file of this reprosity.
-- _Palmer Penguins Project.ipynb_ - Jupyter Notebook of this project.
+- _penguins.ipynb_ - Jupyter Notebook of this project.
