@@ -10,4 +10,7 @@ This Palmer Penguins dataset is composed of size measurements from penguins and 
 This dataset is a combination of three datasets of each penguin species with measurement data (individual dataset for each penguin available here; Palmer Station Antarctica LTER and [Gorman 2020a](https://portal.edirepository.org/nis/mapbrowse?packageid=knb-lter-pal.219.5) (Adélie penguin), [2020b](https://portal.edirepository.org/nis/mapbrowse?packageid=knb-lter-pal.220.5) (Gentoo penguin), and [2020c](https://portal.edirepository.org/nis/mapbrowse?packageid=knb-lter-pal.221.6) (Chinstrap penguin)). 
 
 ### Reporsity Contents
-This 
+This repositry contains several files used for this python based project;
+- _penguins.csv_ - The CSV file used for this project available [here](https://raw.githubusercontent.com/mwaskom/seaborn-data/master/penguins.csv).
+- _READMEmd_ - Markdown file of this reprosity.
+- _Palmer Penguins Project.ipynb_ - Jupyter Notebook of this project.
