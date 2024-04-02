@@ -14,3 +14,13 @@ This repositry contains several files used for this python based project;
 - _penguins.csv_ - The CSV file used for this project available [here](https://raw.githubusercontent.com/mwaskom/seaborn-data/master/penguins.csv).
 - _READMEmd_ - Markdown file of this reprosity.
 - _penguins.ipynb_ - Jupyter Notebook of this project.
+
+
+## How to run the code
+This _penguins.ipynb_ Jupyter Notebook can be run though a [Google CoLab](https://colab.google/) envionment from the below link. The badge was created using [Open in Colab](https://openincolab.com/). 
+
+<a target="_blank" href="https://colab.research.google.com/github/EllenMcG/principles_dataanalytics/blob/main/penguins.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
+
