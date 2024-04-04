@@ -17,7 +17,7 @@ This repository contains several files used for this python based project;
 
 
 ## How to run the code
-This _penguins.ipynb_ Jupyter Notebook can be run though a [Google CoLab](https://colab.google/) envionment from the below link. The badge was created using [Open in Colab](https://openincolab.com/). 
+This _penguins.ipynb_ Jupyter Notebook can be run though a [Google CoLab](https://colab.google/) environment from the below link. The badge was created using [Open in Colab](https://openincolab.com/). 
 
 <a target="_blank" href="https://colab.research.google.com/github/EllenMcG/principles_dataanalytics/blob/main/penguins.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
